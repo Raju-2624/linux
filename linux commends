@@ -1,0 +1,25 @@
+pwd - present working directory
+ls - lest of content in pwd
+clear - clear the screen
+hestory- previous using commends display
+cat - print the content in file
+rm -removie file 
+rmdir - remove for empty directory
+rm -rf - remove forcely 
+mkdir - make a directory
+touch - create a empty file
+cd - switch to directory
+cd .. - switch to previous directory
+chmod - change permissions 
+421- read write exuctive for full permission give 777
+only giving for excutive permission for chmod -x
+in this linux their is war files ( java)
+chown - change owner 
+vi,vim,nano  - file editer
+wq - to save the files
+q! - for unsave
+sudo -i - switch to root user 
+cd - switch to ec2 user
+su - raju - switch to raju user
+adduser - adduser 
+root user others - 4 2 1
